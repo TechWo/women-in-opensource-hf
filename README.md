@@ -1,11 +1,6 @@
 # Hacktoberfest - "Women in Open Source" by TechWo
 
 ![Hacktoberfest][hf]
-[hf]: https://nyc3.digitaloceanspaces.com/hacktoberfest/Hacktoberfest17-Email-01.png
-[hfurl]: https://hacktoberfest.digitalocean.com/
-[github]: https://en.wikipedia.org/wiki/GitHub
-[githubreg]: https://hacktoberfest.digitalocean.com/auth/github
-[techwo]: https://techwo.org
 
 ## Welcome
 [**TechWo**][techwo] se une a Hacktoberfest con este repo proporcionando información para comenzar en: opensource, git &amp; github hints, best practices, etc, a todas las mujeres en TI que quieran colaborar.
@@ -46,3 +41,9 @@ Para lograrlo sigue nuestra guía:
 - [GitHub workshop](../github-workshop/githubWorkshop.md)
 - [Open Source overview](../opensource-overview/opensourceOverview.md)
 - [Best practices](../best-practices/bestPractices.md)
+
+[hf]: https://nyc3.digitaloceanspaces.com/hacktoberfest/Hacktoberfest17-Email-01.png
+[hfurl]: https://hacktoberfest.digitalocean.com/
+[github]: https://en.wikipedia.org/wiki/GitHub
+[githubreg]: https://hacktoberfest.digitalocean.com/auth/github
+[techwo]: https://techwo.org
