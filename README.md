@@ -1,8 +1,6 @@
 # Hacktoberfest - "Women in Open Source" by TechWo
 
-<p align="center">
 ![Hacktoberfest][hf]
-</p>
 
 ## Welcome
 [**TechWo**][techwo] se une a Hacktoberfest con este repositorio proporcionando información para comenzar en: Opensource, Git &amp; GitHub hints, best practices, etc, para todas las mujeres en TI que quieran colaborar y convertirse en contribuidoras de proyectos opensource.
