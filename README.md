@@ -40,9 +40,9 @@ Una vez que tengas tu cuenta de Github, inscribete al Hacktoberfest [aquí][hfre
 
 Para lograrlo sigue nuestra guía:
 
-- [GitHub workshop](../github-workshop/githubWorkshop.md)
-- [Open Source overview](../opensource-overview/opensourceOverview.md)
-- [Best practices](../best-practices/bestPractices.md)
+- [Opensource overview](../opensource-overview/README.md)
+- [GitHub workshop](../github-workshop/README.md)
+- [Best practices](../best-practices/README.md)
 
 [hf]: https://nyc3.digitaloceanspaces.com/hacktoberfest/Hacktoberfest17-Email-01.png
 [hfurl]: https://hacktoberfest.digitalocean.com/
