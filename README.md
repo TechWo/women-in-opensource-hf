@@ -40,7 +40,7 @@ Una vez que tengas tu cuenta de Github, inscribete al Hacktoberfest [aquí][hfre
 
 Para lograrlo sigue nuestra guía:
 
-- [Opensource overview](opensource-overview/README.md)
+- [Open source overview](opensource-overview/README.md)
 - [GitHub workshop](github-workshop/README.md)
 - [Best practices](best-practices/README.md)
 
