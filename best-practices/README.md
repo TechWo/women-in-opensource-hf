@@ -1,4 +1,8 @@
-# Best Practices
+# Best practices
 
-## Welcome TechWo girls
-Let's get started!
+## Titulo
+Descripción
+* Detalles
+```
+Comandos
+```
