@@ -23,3 +23,7 @@
 ### Carmen Martínez
 -Bio: I'm 21 :B
 -GitHub: [CarmenMartinez](https://github.com/CarmenMartinez/)
+
+#### Erendira Garcia
+- Bio: Awesome mom - mad developer :smile:
+- GitHub: [erendira](https://github.com/erendira)
