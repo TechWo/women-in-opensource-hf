@@ -35,3 +35,7 @@
 #### Erendira Garcia
 - Bio: Awesome mom - mad developer :smile:
 - GitHub: [erendira](https://github.com/erendira)
+
+#### Gabriela Muñoz
+- Bio: Graphic Designer :smile:
+- GitHub: [erendira](https://github.com/sg-girl)
