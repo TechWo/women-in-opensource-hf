@@ -38,4 +38,4 @@
 
 #### Gabriela Muñoz
 - Bio: Graphic Designer :smile:
-- GitHub: [erendira](https://github.com/sg-girl)
+- GitHub: [sg-girl](https://github.com/sg-girl)
