@@ -11,3 +11,7 @@
 #### Erendira Garcia
 - Bio: Awesome mom - mad developer :smile:
 - GitHub: [erendira](https://github.com/erendira)
+
+#### Maye Gómez
+- Bio: HappyDev! :sparkles:
+- GitHub: [marley24](https://github.com/marley24)
