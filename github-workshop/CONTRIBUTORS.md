@@ -23,3 +23,8 @@
 #### Adrián Chávez
 - Bio: New software developer :stuck_out_tongue_closed_eyes:
 - GitHub: [lacf95](https://github.com/lacf95)
+
+#### Daniel Garcia
+- Bio: Tech lead on Fanbot
+- GitHub: [chl03ks](https://github.com/chl03ks)
+
