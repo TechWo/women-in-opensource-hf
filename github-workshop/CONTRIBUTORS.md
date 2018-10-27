@@ -4,37 +4,49 @@
 - Bio: I :heart: DOGS! :dog:
 - GitHub: [mbonell](https://github.com/mbonell)
 
-#### Víctor Sanchez
-- Bio: I :heart: [mbonell](https://github.com/mbonell)
-- GitHub: [victorjavierss](https://github.com/victorjavierss)
-
 #### Marcela Sena
 - Bio: Mad programmer
 - GitHub: [marcestarlet](https://github.com/marcestarlet)
 
-### Kimberly Luna
-- Bio: Patasalada estudiante de la vida :pear:
-- GitHub: [@Kimbuca](https://github.com/Kimbuca)
-
-#### Lizette Moreno
-- Bio: I Test Analyzer
-- GitHub: [mbonell](https://github.com/milixet)
-
-#### Yizia
-- Bio: Changing
-- GitHub: [mlkvn](https://github.com/mlkvn)
-
-#### Rosa Quintero
-- Bio: I like to learn how to code and I :heart: plants and my favorite color is purple.
-- GitHub: [rosa](https://github.com/rosaq)
-
-### Carmen Martínez
--Bio: I'm 21 :B
--GitHub: [CarmenMartinez](https://github.com/CarmenMartinez/)
-
 #### Erendira Garcia
 - Bio: Awesome mom - mad developer :smile:
 - GitHub: [erendira](https://github.com/erendira)
+
+#### Alberto Ibarra
+- Bio: Desarrollando soluciones a problemas y generando nuevo. :smile:
+- GitHub: [aibarram](https://github.com/aibarram)
+
+#### Paulina Figueroa
+- Bio: Developer Trainee
+- GitHub: [PauLocleta](https://github.com/PauPauPaulina)
+
+#### Marilyn Quintero
+- Bio: IBM Web Developer :purple_heart: :pig:
+- GitHub [MarilynQuintero](https://github.com/MarilynQuintero)
+
+### Andrea Muñoz
+- Bio: FrontEnd developer and flowers lover :hibiscus: :heart:
+- GitHub: [andreaml](https://github.com/andreaml/)
+
+#### Riley Sainz
+- Bio: I'm just a Dev :smile:
+- GitHub: [RileySainz](https://github.com/ohmsainz)
+
+#### Maye Gómez
+- Bio: HappyDev! :sparkles:
+- GitHub: [marley24](https://github.com/marley24)
+
+## Kimberly Hermosill
+- Bio: All the way from Denver, CO! :heart:
+- GitHub: [kimhermosillo] (https://github.com/kimhermosillo)
+
+#### Adrián Chávez
+- Bio: New software developer :stuck_out_tongue_closed_eyes:
+- GitHub: [lacf95](https://github.com/lacf95)
+
+#### Ivan Robles
+- Bio: Awesome Troll - frontend developer :smile:
+- GitHub: [IvanRobles](https://github.com/Sharmaz)
 
 #### Gabriela Muñoz
 - Bio: Graphic Designer :smile:
@@ -43,3 +55,8 @@
 #### Gerardo Velázquez
 - Bio: Gerardo Amazed Noobie :smile:
 - GitHub: [Gerki](https://github.com/Gerki)
+
+#### Nora Aguirre
+- Bio: Estudiante en Ingeniería informática, trabajo como frontend y me gustan los perros.
+- Github: [noraprogramadoraoficial](https://github.com/noraprogramadoraoficial)
+
