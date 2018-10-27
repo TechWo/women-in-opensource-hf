@@ -12,6 +12,10 @@
 - Bio: Awesome mom - mad developer :smile:
 - GitHub: [erendira](https://github.com/erendira)
 
+### Andrea Muñoz
+- Bio: FrontEnd developer and flowers lover :hibiscus: :heart:
+- GitHub: [andreaml](https://github.com/andreaml/)
+
 #### Riley Sainz
 - Bio: I'm just a Dev :smile:
 - GitHub: [RileySainz](https://github.com/ohmsainz)
