@@ -15,3 +15,7 @@
 ### Andrea Muñoz
 - Bio: FrontEnd developer and flowers lover :hibiscus: :heart:
 - GitHub: [andreaml](https://github.com/andreaml/)
+
+#### Maye Gómez
+- Bio: HappyDev! :sparkles:
+- GitHub: [marley24](https://github.com/marley24)
