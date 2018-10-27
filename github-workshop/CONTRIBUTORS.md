@@ -11,3 +11,7 @@
 #### Erendira Garcia
 - Bio: Awesome mom - mad developer :smile:
 - GitHub: [erendira](https://github.com/erendira)
+
+#### Marilyn Quintero
+- Bio: IBM Web Developer :purple_heart: :pig:
+- GitHub [MarilynQuintero](https://github.com/MarilynQuintero)
