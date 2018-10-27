@@ -8,7 +8,7 @@
 ![TechWo](https://www.techwo.org/wp-content/uploads/2017/04/logo_techwo.png)
 
 ## ¿Qué es Hacktoberfest?
-[Hacktoberfest][hfurl] es una celebración global de un mes de duración en donde se fomenta la contribución al software opensource en asociación con [Github][github] y [DigitalOcean][digitalocean].
+[Hacktoberfest][hfurl] es una celebración global de un mes de duración en donde se fomenta la contribución al software opensource en asociación con [Github][github], [DigitalOcean][digitalocean] y [Twilio][twilio].
 
 ### ¿Qué debo saber sobre Hacktoberfest?
 
@@ -16,11 +16,11 @@
 
 - ¡Hacktoberfest está abierto a todos en nuestra comunidad global!
 - Los **pull request** pueden realizarse en cualquier repositorio / proyecto alojado en GitHub.
-- Puede [inscribirse][hfreg] en cualquier momento entre el 1 de Octubre y el 31 de Octubre.
+- Puede [inscribirse][hfreg] en cualquier momento entre el 1 y el 31 de Octubre.
 
 #### Reglas
 
-- Para obtener una **camiseta**, debes mandar cuatro **pull requests** entre el 1 al 31 de Octubre en cualquier zona horaria.
+- Para obtener una **camiseta**, debes mandar cinco **pull requests** entre el 1 al 31 de Octubre en cualquier zona horaria.
 - Los pull request pueden ser para cualquier repositorio público en GitHub.
 - El pull request debe contener commits hechos por ti.
 - Los pull requests reportados por los mantenedores (propietarios de los repositorios) como spam o que esten automatizados se marcarán como inválidos y no se contarán para la camiseta.
@@ -36,7 +36,7 @@ Una vez que tengas tu cuenta de Github, inscribete al Hacktoberfest [aquí][hfre
 
 - Primero debes saber algunas cosas sobre GitHub.
 - Segundo, debes conocer el opensource, los proyectos que hay y como puedes colaborar.
-- Tercero debes elegir lo que te apasiona y mandar 4 pull requests \o/.
+- Tercero debes elegir lo que te apasiona y mandar 5 pull requests \o/.
 
 Para lograrlo sigue nuestra guía:
 
@@ -44,10 +44,11 @@ Para lograrlo sigue nuestra guía:
 - [GitHub workshop](github-workshop/README.md)
 - [Best practices](best-practices/README.md)
 
-[hf]: https://nyc3.digitaloceanspaces.com/hacktoberfest/Hacktoberfest17-Email-01.png
+[hf]: https://www.evernote.com/l/Ae1Wzjjby1ZN3YZYSXHisGb9mbhcHu44XvQ
 [hfurl]: https://hacktoberfest.digitalocean.com/
 [github]: https://github.com/
 [digitalocean]: https://www.digitalocean.com/
+[twilio]: https://www.twilio.com/
 [githubreg]: https://github.com/join?source=header-home
 [hfreg]: https://hacktoberfest.digitalocean.com/auth/github
 [techwo]: https://techwo.org
