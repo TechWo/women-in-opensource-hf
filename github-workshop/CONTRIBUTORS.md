@@ -11,3 +11,7 @@
 #### Erendira Garcia
 - Bio: Awesome mom - mad developer :smile:
 - GitHub: [erendira](https://github.com/erendira)
+
+### Andrea Muñoz
+- Bio: FrontEnd developer and flowers lover :hibiscus: :heart:
+- GitHub: [andreaml](https://github.com/andreaml/)
