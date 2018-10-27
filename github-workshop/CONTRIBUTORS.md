@@ -23,3 +23,7 @@
 #### Adrián Chávez
 - Bio: New software developer :stuck_out_tongue_closed_eyes:
 - GitHub: [lacf95](https://github.com/lacf95)
+
+#### Ivan Robles
+- Bio: Awesome Troll - frontend developer :smile:
+- GitHub: [IvanRobles](https://github.com/Sharmaz)
