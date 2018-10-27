@@ -39,3 +39,7 @@
 #### Gabriela Muñoz
 - Bio: Graphic Designer :smile:
 - GitHub: [sg-girl](https://github.com/sg-girl)
+
+#### Gerardo Velázquez
+- Bio: Gerardo Amazed Noobie :smile:
+- GitHub: [Gerki](https://github.com/Gerki)
