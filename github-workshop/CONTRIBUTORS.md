@@ -11,3 +11,7 @@
 #### Erendira Garcia
 - Bio: Awesome mom - mad developer :smile:
 - GitHub: [erendira](https://github.com/erendira)
+
+### Nora Aguirre
+- Bio: Estudiante en Ingeniería informática, trabajo como frontend y me gustan los perros.
+- Github: [noraprogramadoraoficial](https://github.com/noraprogramadoraoficial)
