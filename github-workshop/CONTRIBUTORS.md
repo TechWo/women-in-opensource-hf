@@ -13,6 +13,14 @@
 - GitHub: [erendira](https://github.com/erendira)
 
 
-## Kimberly Hermosillo
+#### Paulina Figueroa
+- Bio: Developer Trainee
+- GitHub: [PauLocleta](https://github.com/PauPauPaulina)
+
+#### Maye Gómez
+- Bio: HappyDev! :sparkles:
+- GitHub: [marley24](https://github.com/marley24)
+
+## Kimberly Hermosill
 - Bio: All the way from Denver, CO! :heart:
 - GitHub: [kimhermosillo] (https://github.com/kimhermosillo)
