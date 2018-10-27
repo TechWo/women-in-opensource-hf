@@ -11,3 +11,8 @@
 #### Erendira Garcia
 - Bio: Awesome mom - mad developer :smile:
 - GitHub: [erendira](https://github.com/erendira)
+
+
+## Kimberly Hermosillo
+- Bio: All the way from Denver, CO! :heart:
+- GitHub: [kimhermosillo] (https://github.com/kimhermosillo)
