@@ -16,6 +16,14 @@
 - Bio: FrontEnd developer and flowers lover :hibiscus: :heart:
 - GitHub: [andreaml](https://github.com/andreaml/)
 
+#### Riley Sainz
+- Bio: I'm just a Dev :smile:
+- GitHub: [RileySainz](https://github.com/ohmsainz)
+
 #### Maye Gómez
 - Bio: HappyDev! :sparkles:
 - GitHub: [marley24](https://github.com/marley24)
+
+#### Adrián Chávez
+- Bio: New software developer :stuck_out_tongue_closed_eyes:
+- GitHub: [lacf95](https://github.com/lacf95)

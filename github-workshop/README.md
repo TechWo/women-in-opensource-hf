@@ -17,3 +17,7 @@ Tu nombre
 Ayudanos a terminar la guia con los tips y buenas practicas que ha aprendido para compartirlos con el resto de la comunidad.
 
 No olvides de usar markdown!
+
+
+- Bio: Gerardo - Amazed Noobie
+- GitHub: https://github.com/Gerki
