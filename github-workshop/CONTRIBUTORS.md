@@ -12,6 +12,14 @@
 - Bio: Awesome mom - mad developer :smile:
 - GitHub: [erendira](https://github.com/erendira)
 
-### Nora Aguirre
+#### Riley Sainz
+- Bio: I'm just a Dev :smile:
+- GitHub: [RileySainz](https://github.com/ohmsainz)
+
+#### Maye Gómez
+- Bio: HappyDev! :sparkles:
+- GitHub: [marley24](https://github.com/marley24)
+
+#### Nora Aguirre
 - Bio: Estudiante en Ingeniería informática, trabajo como frontend y me gustan los perros.
 - Github: [noraprogramadoraoficial](https://github.com/noraprogramadoraoficial)
