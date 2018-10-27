@@ -11,3 +11,9 @@
 #### Erendira Garcia
 - Bio: Awesome mom - mad developer :smile:
 - GitHub: [erendira](https://github.com/erendira)
+
+#### Alberto Ibarra
+- Bio: Desarrollando soluciones a problemas y generando nuevo. :smile:
+- GitHub: [aibarram](https://github.com/aibarram)
+
+
