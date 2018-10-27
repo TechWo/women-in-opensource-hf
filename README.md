@@ -44,7 +44,7 @@ Para lograrlo sigue nuestra guía:
 - [GitHub workshop](github-workshop/README.md)
 - [Best practices](best-practices/README.md)
 
-[hf]: https://www.evernote.com/l/Ae1Wzjjby1ZN3YZYSXHisGb9mbhcHu44XvQ
+[hf]: https://content.evernote.com/shard/s493/sh/56ce38db-cb56-4ddd-8658-4971e2b066fd/99b85c1eee385ef4/res/1e343229-85c4-4633-bf23-4aa211e580b1/skitch.png
 [hfurl]: https://hacktoberfest.digitalocean.com/
 [github]: https://github.com/
 [digitalocean]: https://www.digitalocean.com/
