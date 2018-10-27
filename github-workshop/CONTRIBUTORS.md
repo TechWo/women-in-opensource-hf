@@ -12,6 +12,10 @@
 - Bio: Awesome mom - mad developer :smile:
 - GitHub: [erendira](https://github.com/erendira)
 
+
 #### Paulina Figueroa
 - Bio: Developer Trainee
 - GitHub: [PauLocleta](https://github.com/PauPauPaulina)
+#### Maye Gómez
+- Bio: HappyDev! :sparkles:
+- GitHub: [marley24](https://github.com/marley24)
