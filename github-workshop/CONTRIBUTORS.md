@@ -11,3 +11,7 @@
 #### Erendira Garcia
 - Bio: Awesome mom - mad developer :smile:
 - GitHub: [erendira](https://github.com/erendira)
+
+#### Ivan Robles
+- Bio: Awesome Troll - frontend developer :smile:
+- GitHub: [IvanRobles](https://github.com/Sharmaz)
