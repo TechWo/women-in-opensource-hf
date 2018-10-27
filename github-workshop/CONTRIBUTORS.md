@@ -16,7 +16,14 @@
 - Bio: Desarrollando soluciones a problemas y generando nuevo. :smile:
 - GitHub: [aibarram](https://github.com/aibarram)
 
+#### Paulina Figueroa
+- Bio: Developer Trainee
+- GitHub: [PauLocleta](https://github.com/PauPauPaulina)
+
 #### Maye Gómez
 - Bio: HappyDev! :sparkles:
 - GitHub: [marley24](https://github.com/marley24)
->>>>>>> 1c3306b54d79ac30e6a77975c008114db963fe3a
+
+## Kimberly Hermosill
+- Bio: All the way from Denver, CO! :heart:
+- GitHub: [kimhermosillo] (https://github.com/kimhermosillo)
