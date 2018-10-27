@@ -11,3 +11,7 @@
 #### Erendira Garcia
 - Bio: Awesome mom - mad developer :smile:
 - GitHub: [erendira](https://github.com/erendira)
+
+#### Paulina Figueroa
+- Bio: Developer Trainee
+- GitHub: [PauLocleta](https://github.com/PauPauPaulina)
