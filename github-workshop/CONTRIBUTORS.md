@@ -31,3 +31,8 @@
 #### Ivan Robles
 - Bio: Awesome Troll - frontend developer :smile:
 - GitHub: [IvanRobles](https://github.com/Sharmaz)
+
+#### Nora Aguirre
+- Bio: Estudiante en Ingeniería informática, trabajo como frontend y me gustan los perros.
+- Github: [noraprogramadoraoficial](https://github.com/noraprogramadoraoficial)
+
