@@ -12,7 +12,6 @@
 - Bio: Awesome mom - mad developer :smile:
 - GitHub: [erendira](https://github.com/erendira)
 
-<<<<<<< HEAD
 #### Alberto Ibarra
 - Bio: Desarrollando soluciones a problemas y generando nuevo. :smile:
 - GitHub: [aibarram](https://github.com/aibarram)
@@ -53,6 +52,15 @@
 - Bio: Awesome Troll - frontend developer :smile:
 - GitHub: [IvanRobles](https://github.com/Sharmaz)
 
+#### Gabriela Muñoz
+- Bio: Graphic Designer :smile:
+- GitHub: [sg-girl](https://github.com/sg-girl)
+
+#### Gerardo Velázquez
+- Bio: Gerardo Amazed Noobie :smile:
+- GitHub: [Gerki](https://github.com/Gerki)
+
 #### Nora Aguirre
 - Bio: Estudiante en Ingeniería informática, trabajo como frontend y me gustan los perros.
 - Github: [noraprogramadoraoficial](https://github.com/noraprogramadoraoficial)
+
