@@ -23,19 +23,19 @@
 - Para obtener una **camiseta**, debes mandar cinco **pull requests** entre el 1 al 31 de Octubre en cualquier zona horaria.
 - Los pull request pueden ser para cualquier repositorio público en GitHub.
 - El pull request debe contener commits hechos por ti.
-- Los pull requests reportados por los mantenedores (propietarios de los repositorios) como spam o que esten automatizados se marcarán como inválidos y no se contarán para la camiseta.
+- Los pull requests reportados por los mantenedores (propietarios de los repositorios) como spam o que estén automatizados se marcarán como inválidos y no se contarán para la camiseta.
 
 ### ¿Cómo puedo comenzar?
 Si ya eres un developer con cuenta en GitHub y haz hecho pull requests antes, puedes echar un vistazo a nuestra guía en el directorio de *opensource* y revisa algunas pistas y consejos que damos para escoger un repositorio al cuál puedes colaborar.
 
 Si eres developer pero no tienes cuenta en GitHub, regístrate [aquí][githubreg].
 
-Una vez que tengas tu cuenta de Github, inscribete al Hacktoberfest [aquí][hfreg].
+Una vez que tengas tu cuenta de Github, inscríbete al Hacktoberfest [aquí][hfreg].
 
-¡Listo! Ya puedes comenzar a hacer pull requests. Pero y ¿Qué es un pull request?, ¿Qué es GitHub?, ¿Por que contribuir al opensource?
+¡Listo! Ya puedes comenzar a hacer pull requests. Pero, y ¿Qué es un pull request?, ¿Qué es GitHub?, ¿Por qué contribuir al opensource?
 
 - Primero debes saber algunas cosas sobre GitHub.
-- Segundo, debes conocer el opensource, los proyectos que hay y como puedes colaborar.
+- Segundo, debes conocer el opensource, los proyectos que hay y cómo puedes colaborar.
 - Tercero debes elegir lo que te apasiona y mandar 5 pull requests \o/.
 
 Para lograrlo sigue nuestra guía:
