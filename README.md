@@ -44,7 +44,7 @@ Para lograrlo sigue nuestra guía:
 - [GitHub workshop](github-workshop/README.md)
 - [Best practices](best-practices/README.md)
 
-[hf]: https://content.evernote.com/shard/s493/sh/56ce38db-cb56-4ddd-8658-4971e2b066fd/99b85c1eee385ef4/res/1e343229-85c4-4633-bf23-4aa211e580b1/skitch.png
+[hf]: https://hacktoberfest.digitalocean.com/assets/logo-hf19-full-10f3c000cea930c76acc1dedc516ea7118b95353220869a3051848e45ff1d656.svg
 [hfurl]: https://hacktoberfest.digitalocean.com/
 [github]: https://github.com/
 [digitalocean]: https://www.digitalocean.com/
