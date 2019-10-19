@@ -18,6 +18,12 @@
 - Los **pull request** pueden realizarse en cualquier repositorio / proyecto alojado en GitHub.
 - Puede [inscribirse][hfreg] en cualquier momento entre el 1 y el 31 de Octubre.
 
+#### ¿Qué necesito?
+
+- Tu laptop
+- Una cuenta de [Git][github]
+- ¡Muchas ganas de aprender!
+
 #### Reglas
 
 - Para obtener una **camiseta**, debes mandar cinco **pull requests** entre el 1 al 31 de Octubre en cualquier zona horaria.
