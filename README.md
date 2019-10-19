@@ -42,7 +42,7 @@ Una vez que tengas tu cuenta de Github, inscríbete al Hacktoberfest [aquí][hfr
 
 - Primero debes saber algunas cosas sobre GitHub.
 - Segundo, debes conocer el opensource, los proyectos que hay y cómo puedes colaborar.
-- Tercero debes elegir lo que te apasiona y mandar 5 pull requests \o/.
+- Tercero debes elegir lo que te apasiona y mandar 4 pull requests \o/.
 
 Para lograrlo sigue nuestra guía:
 
