@@ -52,3 +52,5 @@ Para lograrlo sigue nuestra guía:
 [githubreg]: https://github.com/join?source=header-home
 [hfreg]: https://hacktoberfest.digitalocean.com/auth/github
 [techwo]: https://techwo.org
+
+<footer>La edicion Oct 19, 2019 de Hacktoberfest en Guadalajara, Mexico fue patrocinada por Women in OpenSource by TechWo & HackerGarage A.C.</footer>
