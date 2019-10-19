@@ -64,3 +64,7 @@
 - Bio: Estudiante en Ingeniería informática, trabajo como frontend y me gustan los perros.
 - Github: [noraprogramadoraoficial](https://github.com/noraprogramadoraoficial)
 
+#### David Godinez 
+- Bio: Estudiante en Ingeniería informática, por alguna razón actualmente utilizando react native, Gusto por la 			tecnologia, aprendizaje y videojuegos
+- Github: [pokedav](https://github.com/pokedav)
+
