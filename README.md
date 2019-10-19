@@ -3,7 +3,7 @@
 ![Hacktoberfest][hf]
 
 ## Welcome
-[**TechWo**][techwo] se une a Hacktoberfest con este repositorio proporcionando información para comenzar en: Opensource, Git &amp; GitHub hints, best practices, etc, para todas las mujeres en TI que quieran colaborar y convertirse en contribuidoras de proyectos opensource.
+[**TechWo**][techwo] se une a Hacktoberfest con este repositorio proporcionando información para comenzar en: Opensource, Git &amp; GitHub hints, mejores prácticas, etc, para todas las mujeres en TI que quieran colaborar y convertirse en contribuidoras de proyectos opensource.
 
 ![TechWo](https://www.techwo.org/wp-content/uploads/2017/04/logo_techwo.png)
 
